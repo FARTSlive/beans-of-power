@@ -2,6 +2,8 @@
 
 ![power](website/content/gameplay.gif)
 
+[*F art lovers*](https://tenor.com/search/fart-gifs)
+
 ## Play
 
 You can play the REAL game, on which this fork is based, on [itch.io](https://kuviman.itch.io/beans-of-power).
