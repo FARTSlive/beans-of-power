@@ -4,7 +4,7 @@
 
 ## Play
 
-You can play the game on [itch.io](https://kuviman.itch.io/beans-of-power).
+You can play the REAL game, on which this fork is based, on [itch.io](https://kuviman.itch.io/beans-of-power).
 
 *The game was initially created for [Ludum Dare 51](https://ldjam.com/events/ludum-dare/51/getting-farted-on) game jam in 48 hours (the theme was "Every 10 Seconds"), you can check out the [jam version here](https://kuviman.github.io/beans-of-power/jam/), jam version source is available at [jam-version branch](https://github.com/kuviman/beans-of-power/tree/jam-version)*
 
