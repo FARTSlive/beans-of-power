@@ -2,7 +2,7 @@
 
 ![power](website/content/gameplay.gif)
 
-[*F art lovers*](https://tenor.com/search/fart-gifs)
+[*Fo ART lovers*](https://tenor.com/search/fart-gifs)
 
 ## Play
 
